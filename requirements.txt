@@ -3,6 +3,6 @@ openai
 Pillow
 python-dotenv
 base64
-from PIL import Image
-from io import BytesIO
-import PySimpleGUI as psg
+PILLOW
+BytesIO
+PySimpleGUI
