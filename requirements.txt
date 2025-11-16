@@ -1,7 +1,5 @@
-streamlit
-openai
-Pillow
-python-dotenv
-PILLOW
-BytesIO
-PySimpleGUI
+streamlit==1.51.0
+openai==2.8.0
+Pillow==12.0.0
+python-dotenv==1.2.1
+rich==14.2.0
