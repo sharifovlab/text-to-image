@@ -2,7 +2,6 @@ streamlit
 openai
 Pillow
 python-dotenv
-base64
 PILLOW
 BytesIO
 PySimpleGUI
